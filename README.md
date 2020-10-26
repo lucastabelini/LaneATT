@@ -1,5 +1,7 @@
 # LaneATT
-This repository will hold the source code for LaneATT, a novel state-of-the-art lane detection model proposed in the paper "Keep your Eyes on the Lane: Attention-guided Lane Detection", by [Lucas Tabelini](https://github.com/lucastabelini), [Rodrigo F. Berriel](http://rodrigoberriel.com), [Thiago M. Paixão](https://sites.google.com/view/thiagopx), [Claudine Badue](https://www.inf.ufes.br/~claudine/), [Alberto F. De Souza](https://inf.ufes.br/~alberto), and [Thiago Oliveira-Santos](https://www.inf.ufes.br/~todsantos/home).
+[![arXiv](https://img.shields.io/badge/arXiv-2010.12035-b31b1b.svg)](https://arxiv.org/abs/2010.12035)
+
+This repository will hold the source code for LaneATT, a novel state-of-the-art lane detection model proposed in the [paper](https://arxiv.org/abs/2010.12035) "_Keep your Eyes on the Lane: Attention-guided Lane Detection_", by [Lucas Tabelini](https://github.com/lucastabelini), [Rodrigo F. Berriel](http://rodrigoberriel.com), [Thiago M. Paixão](https://sites.google.com/view/thiagopx), [Claudine Badue](https://www.inf.ufes.br/~claudine/), [Alberto F. De Souza](https://inf.ufes.br/~alberto), and [Thiago Oliveira-Santos](https://www.inf.ufes.br/~todsantos/home).
 
 **The code will be published soon. Subscribe to [this issue](https://github.com/lucastabelini/LaneATT/issues/1) to be notified when that happens.**
 
