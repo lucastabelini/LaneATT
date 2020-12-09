@@ -58,7 +58,7 @@ Evaluate a model:
 python main.py test --exp_name example
 ```
 This command will evaluate the model saved in the last checkpoint of the experiment `example` (inside `experiments`).
-If you want to evaluate another checkpoint, the `--epoch` flag can be used. For other flags, please see `python main.py -h`.
+If you want to evaluate another checkpoint, the `--epoch` flag can be used. For other flags, please see `python main.py -h`. To **visualize the predictions**, run the above command with the additional flag `--view all`.
 
 #### Reproducing a result from the paper
 0. Set up the dataset you want to reproduce the results on (as described in [DATASETS.md](DATASETS.md)).
