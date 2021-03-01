@@ -8,6 +8,8 @@
 
 This repository holds the source code for LaneATT, a novel state-of-the-art lane detection model proposed in the [paper](https://arxiv.org/abs/2010.12035) "_Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection_", by [Lucas Tabelini](https://github.com/lucastabelini), [Rodrigo Berriel](http://rodrigoberriel.com), [Thiago M. Paixão](https://sites.google.com/view/thiagopx), [Claudine Badue](http://www.inf.ufes.br/~claudine/), [Alberto F. De Souza](http://www.lcad.inf.ufes.br/team/index.php/Prof._Dr._Alberto_Ferreira_De_Souza), and [Thiago Oliveira-Santos](http://www.inf.ufes.br/~todsantos/home).
 
+**News (2021-03-01)**: Our paper presenting LaneATT has been accepted to CVPR'21.
+
 ### Table of contents
 1. [Prerequisites](#1-prerequisites)
 2. [Install](#2-install)
