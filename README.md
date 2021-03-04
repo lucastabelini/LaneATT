@@ -152,7 +152,7 @@ Additional results can be seen in the paper.
 If you use this code in your research, please cite:
 
 ```bibtex
-@misc{laneatt2020arxiv,
+@InProceedings{tabelini2021cvpr,
   author    = {Lucas Tabelini
                and Rodrigo Berriel
                and Thiago M. Paix\~ao
@@ -160,7 +160,7 @@ If you use this code in your research, please cite:
                and Alberto Ferreira De Souza
                and Thiago Oliveira-Santos},
   title     = {{Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection}},
-  eprint    = {arXiv:2010.12035},
-  year      = {2020}
+  booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2021}
 }
 ```
