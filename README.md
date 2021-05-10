@@ -2,6 +2,7 @@
 
 # LaneATT
 [![arXiv](https://img.shields.io/badge/arXiv-2010.12035-b31b1b.svg)](https://arxiv.org/abs/2010.12035)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/keep-your-eyes-on-the-lane-attention-guided/lane-detection-on-llamas)](https://paperswithcode.com/sota/lane-detection-on-llamas?p=keep-your-eyes-on-the-lane-attention-guided)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/keep-your-eyes-on-the-lane-attention-guided/lane-detection-on-culane)](https://paperswithcode.com/sota/lane-detection-on-culane?p=keep-your-eyes-on-the-lane-attention-guided)
 ![Method overview](data/figures/method-overview.png "Method overview")
 </div>
