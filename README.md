@@ -80,6 +80,13 @@ python main.py test --exp_name laneatt_r34_tusimple
 ```
 The results on TuSimple and LLAMAS should match exactly the ones reported in the paper. The results on CULane will deviate in the order of 0.1% (as shown in the CULane table below), since the metric reported on the paper was computed with the official code (C++), while this script will compute it using our implementation (which is much faster and in Python). The official metric implementation is available [here](https://github.com/XingangPan/SCNN/tree/master/tools/lane_evaluation).
 
+3. Run demo for image or video:
+```bash
+python .\demo.py video -path path_of_video -cfg .\cfgs\laneatt_culane_resnet34.yml
+python .\demo.py image -path path_of_image -cfg .\cfgs\laneatt_culane_resnet34.yml
+```
+The result will show by opencv-python
+
 ### 4. Results
 ![F1 vs. Latency for state-of-the-art methods on lane detection](data/figures/f1-vs-latency.png "F1 vs. Latency for state-of-the-art methods on lane detection")
 
