@@ -2,8 +2,7 @@
 
 # LaneATT
 [![arXiv](https://img.shields.io/badge/arXiv-2010.12035-b31b1b.svg)](https://arxiv.org/abs/2010.12035)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/keep-your-eyes-on-the-lane-attention-guided/lane-detection-on-llamas)](https://paperswithcode.com/sota/lane-detection-on-llamas?p=keep-your-eyes-on-the-lane-attention-guided)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/keep-your-eyes-on-the-lane-attention-guided/lane-detection-on-culane)](https://paperswithcode.com/sota/lane-detection-on-culane?p=keep-your-eyes-on-the-lane-attention-guided)
+[![CVPR](https://img.shields.io/badge/CVPR-PDF-blue)](https://openaccess.thecvf.com/content/CVPR2021/html/Tabelini_Keep_Your_Eyes_on_the_Lane_Real-Time_Attention-Guided_Lane_Detection_CVPR_2021_paper.html)
 ![Method overview](data/figures/method-overview.png "Method overview")
 </div>
 
