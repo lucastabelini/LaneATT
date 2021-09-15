@@ -47,12 +47,12 @@ def main():
         model(x)
 
     # Benchmark latency and FPS
-    t_all = 0
+    torch.cuda.current_stream(device).synchronize()
+    t_start = time.perf_counter()
     for _ in range(args.iters):
-        t1 = time.time()
         model(x, **test_parameters)
-        t2 = time.time()
-        t_all += t2 - t1
+    torch.cuda.current_stream(device).synchronize()
+    t_all = time.perf_counter() - t_start
 
     print('Average latency (ms): {:.2f}'.format(t_all * 1000 / args.iters))
     print('Average FPS: {:.2f}'.format(args.iters / t_all))
