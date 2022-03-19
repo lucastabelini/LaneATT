@@ -47,7 +47,7 @@ gdown "https://drive.google.com/uc?id=1daWl7XVzH06GwcZtF4WD8Xpvci5SZiUV"
 gdown "https://drive.google.com/uc?id=1Z6a463FQ3pfP54HMwF3QS5h9p2Ch3An7"
 tar xf driver_37_30frame.tar.gz
 tar xf driver_100_30frame.tar.gz
-tar xf driver_193_90frame.tar.gzt
+tar xf driver_193_90frame.tar.gz
 # all annotations (train, val and test)
 gdown "https://drive.google.com/uc?id=1QbB1TOk9Fy6Sk0CoOsR3V8R56_eG6Xnu"
 tar xf annotations_new.tar.gz
