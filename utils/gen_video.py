@@ -47,7 +47,7 @@ def main():
     print('Using resolution {}x{}'.format(width, height))
     legend = cv2.imread(args.legend) if args.legend else None
     if not args.view:
-        video = create_video(args.out, width, height + legend.shape[0] if legend is not None else 0, args.fps)
+        video = create_video(args.out, width, height + (legend.shape[0] if legend is not None else 0), args.fps)
 
     print('Loading predictions...')
     with open(args.pred, "rb") as pred_file:
